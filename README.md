@@ -1,2 +1,2 @@
-# gerate-for-resume-of-text
+# Python
 gerate for txt resume for web pages
